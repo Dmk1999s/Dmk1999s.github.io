@@ -1,4 +1,3 @@
-User
 ---
 layout: single
 title:  "React란 무엇일까?"
