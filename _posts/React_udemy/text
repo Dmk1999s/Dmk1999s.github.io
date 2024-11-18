@@ -1,1 +1,4 @@
+codesandbox 라는 웹 프로그램을 통해 React를 다룰 수 있음
+visual studio를 통해 로컬 환경에서 React를 다룰 수 있ㅇ므
+터미널에서 "npm create vite@latest '프로젝트이름'" 을 입력하여 새로운 프로젝트를 생성할 수 있음
 
